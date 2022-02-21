@@ -1,0 +1,7 @@
+pyquran
+sounddevice
+transformers
+lang_trans
+nltk
+tqdm
+torch
